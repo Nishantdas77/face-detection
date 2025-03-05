@@ -18,16 +18,18 @@ The project consists of the following scripts:
 
 ## Folder Structure
 
+```
 Face-Detection-System/
-├── README.md
+├── README.md                     # Project Documentation
 ├── haarcascade_frontalface.xml
 ├── collect_data.py
 ├── consolidated_data.py
 ├── face_detect.py
 ├── recognize.py
-├── data/                   #After preprocessing the collected data, this folder automatically generate
-│   
-└── images/                 #After collecting data from your IP camera, this folder automatically generate
+├── data/                         # After preprocessing the collected data, this folder is automatically generated.
+└── images/                       # After collecting data from your IP camera, this folder is automatically generated.
+```
+
     
 
 ## Installation
